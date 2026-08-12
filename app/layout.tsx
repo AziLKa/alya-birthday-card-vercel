@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Интерактивная открытка для коллеги",
-  description: "Небольшая игровая комната с автоматом, игрушками и пожеланиями от коллег.",
+  title: "Опачки, что это тут за коварная ссылка...",
+  description: "Я уверена ты хочешь рискнуть и открыть ее! Поверь ты не пожалеешь...",
   other: {
     "codex-preview": "development",
   },
