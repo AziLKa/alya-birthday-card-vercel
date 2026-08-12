@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Опачки, что это тут за коварная ссылка...",
-  description: "Я уверена ты хочешь рискнуть и открыть ее! Поверь ты не пожалеешь...",
+  title: "Пу-пу-пу...",
+  description: "Какой-то коварный сайт, специально для 12.08.2026",
   other: {
     "codex-preview": "development",
   },
